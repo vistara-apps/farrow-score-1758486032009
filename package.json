@@ -1,7 +1,7 @@
 {
-  "name": "farrow-score",
+  "name": "farrow-score-1758486032009",
   "version": "1.0.0",
-  "description": "RedZone Live Scoreboard App - Pull NFL API display scores and win probability chart",
+  "description": "RedZone Live Scoreboard App\n\nPull NFL API → display scores + win probability chart.\n\nShow updates in real-time",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -12,8 +12,7 @@
   "dependencies": {
     "next": "^14.0.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "@vercel/sandbox": "latest"
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
